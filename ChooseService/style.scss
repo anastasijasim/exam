@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+#text{
+    width: 300px;
+    height: 50px;
+    border: 1px solid white;
+}
+
+.choose{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.eyebrowcor{ 
+    width: 300px;
+    height: 100px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+.eyebrowcol{
+    width: 300px;
+    height: 100px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(253, 253, 253);
+}
+
+#circleEyebrowCC {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(172, 0, 120);
+    border-radius: 50%;
+    font-size: 20px;
+    color: white;
+}
+#circleEyebrowCol {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(172, 0, 120);
+    border-radius: 50%;
+    font-size: 20px;
+    color: white;
+}
+#circleEyebrowCor {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgb(172, 0, 120);
+    border-radius: 50%;
+    font-size: 20px;
+    color: white;
+}
+
+.eyebrowcc {
+    width: 300px;
+    height: 100px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+
+}
+
+.PriceCircle{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.eyebrowccDistance{
+    margin-left: 20px;
+}
+.eyebrowCorDistance{
+    margin-left: 20px;
+}
+.eyebrowcolDistance{
+    margin-left: 20px;
+}
+.price{
+    margin-left: 10px;
+}

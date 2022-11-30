@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+
+#registrationDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.outcome{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#dateForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  background-color: rgb(255, 255, 255);
+  border: 1px solid white;
+  height: 40px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
